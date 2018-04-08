@@ -270,7 +270,7 @@ class Arena{
 
         /**
          *
-         * TODO: runtime logic and refresh signs
+         * TODO: runtime logic and refresh sign
          *
          */
         public function doTick(){
